@@ -1,3 +1,3 @@
-# This is my repo pushed created via command line.
+# This is my repo pushed created vis command line
 
 # YinYinHt00
